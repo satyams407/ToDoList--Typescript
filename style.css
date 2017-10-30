@@ -1,0 +1,65 @@
+#heading1 {
+    background-color: cornflowerblue;
+    margin: 20px auto;
+    alignment: center;
+    text-align: center;
+    font-family: Calibri;
+}
+
+#add_button {
+    background-color: hotpink;
+}
+
+#div1 {
+    size: auto;
+    align-content: center;
+    top: 30%;
+    margin-left: 20px;
+    bottom: 50%;
+}
+
+#addtodoinput_id {
+    size: 300px;
+    padding: 2px;
+}
+
+#div2 {
+    size: 70px;
+    align-content: center;
+    float: left;
+}
+
+#div3 {
+    size: auto;
+    align-content: center;
+}
+
+.todos {
+    float: left;
+    align-content: center;
+    margin-right: 50%;
+}
+
+.checkbox_ {
+    size: 15px;
+    padding: 15px;
+}
+
+.todoStatusCompleted {
+    color: green;
+    float: left;
+    text-decoration: line-through;
+}
+
+.todoStatusUnCompleted {
+    color: black;
+    float: left;
+}
+
+.breathHorizontal {
+    margin: 5px;
+}
+
+.breathVertical {
+    margin: 15px;
+}
